@@ -9,7 +9,7 @@
 <p align="center"> <img align="center" src="https://github.com/marcociano/marcociano/blob/main/universita-degli-studi-di-salerno.png" height= "100" width= "100"> 
 <br>
 <br>
-I am currenty a Computer Science student at University of Salerno </p>
+I am currently a Computer Science student at University of Salerno </p>
 
 <h2> Social :computer::</h2>
 <li> <a href="https://www.linkedin.com/in/marco-ciano-06a557195/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a> Linkedin Account
