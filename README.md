@@ -1,7 +1,10 @@
 ### Hi there 👋
  
 <img align="center" alt="Coding" width="1000" src="https://github.com/marcociano/marcociano/blob/main/_21_8-bit-gif-background_8bit-gif-album-on-imgur.gif">
-
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=marcociano&label=Profile%20views&color=0e75b6&style=flat"
+    alt="marcociano" /> 
+  </p>
+  
 <h2> Studies 🎓:</h2>
 
 
