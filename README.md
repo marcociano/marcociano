@@ -1,20 +1,33 @@
 <h2 align="center"> Hi there, I'm Marco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
- 
-<img align="center" alt="Coding" width="1000" src="https://github.com/marcociano/marcociano/blob/main/_21_8-bit-gif-background_8bit-gif-album-on-imgur.gif">
-
-  
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+ ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <h2> Studies 🎓</h2>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <p align="center"> <img align="center" src="https://github.com/marcociano/marcociano/blob/main/universita-degli-studi-di-salerno.png" height= "100" width= "100"> 
 <br>
 <br>
 I am currently a Computer Science student at University of Salerno </p>
 
 <h2> Social 💻</h2>
-<li> <a href="https://www.linkedin.com/in/marco-ciano-06a557195/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a> Linkedin Account
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<p align="center">
+<a href="https://www.linkedin.com/in/marco-ciano-06a557195/" target="_blank">
+  <img align="center" alt="Marco Ciano | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/marcociano_/" target="_blank">
+  <img align="center" alt="Marco Ciano | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:marco.ciano@live.it" >
+  <img align="center" alt="Marco Ciano | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/marco.ciano.9/">
+    <img align="center" alt="Marco Ciano | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+</a> &nbsp;&nbsp;
+<p>
 
 <h1 align="center"> My Github Stats <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBieGo4YnVpNWVweXhvYTRsYWFjZXNxMHEyN2lwdmJwejllMXg5MyZjdD1z/tVhJw24Gv8FGGlnjDN/giphy.gif" width="50"</img></h1>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
  <div align="center"> 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcociano&show_icons=true&theme=gradients)
