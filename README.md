@@ -9,7 +9,8 @@
 <p align="center"> <img align="center" src="https://github.com/marcociano/marcociano/blob/main/universita-degli-studi-di-salerno.png" height= "100" width= "100"> 
 <br>
 <br>
-I am currently a Computer Science student at University of Salerno </p>
+<li align="center">Bachelor Degree in Computer Science at University of Salerno </li></p>
+<li align="center">I am currently pursuing master's degree in Security </li>
 
 <h2> Social 💻</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
