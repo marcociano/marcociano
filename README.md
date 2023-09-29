@@ -45,7 +45,7 @@
   
 <div align="center">
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marcociano&theme=dark&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&background=1A0A3C)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=marcociano&theme=dark&hide_border=true&border_radius=10&locale=it&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
  
 </div>
  
