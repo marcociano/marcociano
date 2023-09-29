@@ -43,12 +43,6 @@
 
  </div>
   
-<div align="center">
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=marcociano&theme=dark&hide_border=true&border_radius=10&locale=it&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
- 
-</div>
- 
   <p align="right"> <h3>Profile Views </h3> <img src="https://komarev.com/ghpvc/?username=marcociano&label=Profile%20views&color=0e75b6&style=flat"
     alt="marcociano" /> 
   </p>
