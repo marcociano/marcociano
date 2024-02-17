@@ -10,7 +10,7 @@
 <br>
 <br>
 <li align="center">Bachelor Degree in Computer Science at University of Salerno </li>
-<li align="center">I am currently pursuing master's degree in Security </li></p>
+<li align="center">I am currently pursuing master's degree in Cybersecurity </li></p>
 
 <h2> Social 💻</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
